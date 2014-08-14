@@ -1,4 +1,4 @@
 # LaTeX shiz
 
-.aux
-.log
+*.aux
+*.log
